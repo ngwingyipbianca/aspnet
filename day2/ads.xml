@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>images/dining1.jpg</ImageUrl>
+    <NavigateUrl>dining1.html</NavigateUrl>
+    <AlternateText>Dining set 1</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/dining2.jpg</ImageUrl>
+    <NavigateUrl>dining2.html</NavigateUrl>
+    <AlternateText>Dining set 3</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/dining3.jpg</ImageUrl>
+    <NavigateUrl>dining3.html</NavigateUrl>
+    <AlternateText>Dining set 3</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/dining4.jpg</ImageUrl>
+    <NavigateUrl>dining4.html</NavigateUrl>
+    <AlternateText>Dining set 4</AlternateText>
+    <Impressions>20</Impressions>
+  </Ad>
+</Advertisements>
